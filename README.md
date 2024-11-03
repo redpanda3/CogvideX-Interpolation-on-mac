@@ -1,6 +1,8 @@
 # CogvideX-Interpolation-on-mac
 
-a failed try
+a failed try:
+
+python test.py
 
 ```
 RuntimeError: Invalid buffer size: 113.01 GB
